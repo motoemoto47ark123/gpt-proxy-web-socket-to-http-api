@@ -5,8 +5,4 @@
 
 Alternatively, you can run this command:
 
-bash
-
-Copy code
-
 `docker run -p 8080:8000 motoemoto47ark123/gpt-proxy-web-socket-to-http-api:v1`
